@@ -229,7 +229,7 @@ JSON-based indexes to provide fast, relevant search results.
     In this exercise, we have created a Storage account and added the
     document and required Role permissions to it.
 
-    **Exercise 3: Create an Azure OpenAI Service and deploy a model**
+## Exercise 3: Create an Azure OpenAI Service and deploy a model
 
 1.  From the Azure portal Home page, search for and select +++Azure
     OpenAI+++.
