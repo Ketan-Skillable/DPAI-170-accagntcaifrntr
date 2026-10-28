@@ -351,7 +351,7 @@ JSON-based indexes to provide fast, relevant search results.
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image49.png)
 
-    **Exercise 4: Create a vector index**
+## Exercise 4: Create a vector index
 
 1.  Back in the Azure portal, open the **searchleaves** AI Search
     service resource.
@@ -416,7 +416,7 @@ JSON-based indexes to provide fast, relevant search results.
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image57.png)
 
-    **Exercise 5: Create a knowledge assistant agent**
+## Exercise 5: Create a knowledge assistant agent
 
 1.  Open a new broser and login to
     +++https://copilotstudio.microsoft.com+++ using
@@ -445,7 +445,7 @@ JSON-based indexes to provide fast, relevant search results.
 
     ![image](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image62.png)
 
-    **Exercise 6: Add the Azure AI Search as a knowledge source**
+## Exercise 6: Add the Azure AI Search as a knowledge source
 
 1.  From the **Overview** page of the agent, select **Add knowledge**.
 
@@ -495,6 +495,7 @@ JSON-based indexes to provide fast, relevant search results.
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image70.png)
+
 ## Exercise 7: Clean up all the resources
 
 1.  Switch back to **Azure portal -\> Resource group-\> Resource group
