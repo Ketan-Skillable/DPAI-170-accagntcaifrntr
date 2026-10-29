@@ -331,31 +331,33 @@ JSON-based indexes to provide fast, relevant search results.
 
 14. Select **Deployments** from the left pane.
 
+    >[!Tip] The Foundry portal by default launches using the new UI. Use the toggle button next to **New Foundry** and turn it off to switch to the old Foundry UI.
+
     ![A screenshot of a chat AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image44.png)
 
-15. Select **+ Deploy model** -\> **Deploy base model**.
+16. Select **+ Deploy model** -\> **Deploy base model**.
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image45.png)
 
-16. Select **Embeddings** under **Inference tasks**.
+17. Select **Embeddings** under **Inference tasks**.
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image46.png)
 
-17. Search for +++text-embedding+++,
+18. Search for +++text-embedding+++,
     select **text-embedding-3-large** and then select **Confirm**.
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image47.png)
 
-18. Select **Deployment type** as **Standard** and then
+19. Select **Deployment type** as **Standard** and then
     select **Deploy** in the **Deploy text-embedding-3-large** screen..
 
     ![image](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image48.png)
 
-19. The model gets deployed and the screen is loaded with the deployment
+20. The model gets deployed and the screen is loaded with the deployment
     details.
 
     ![A screenshot of a computer AI-generated content may be
