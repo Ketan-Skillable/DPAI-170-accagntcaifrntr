@@ -328,6 +328,8 @@ JSON-based indexes to provide fast, relevant search results.
     - Region – Central US
 
     - Subscription - Select your subscription
+   
+    - Resource group - AgenticAI
 
 14. Select **Deployments** from the left pane.
 
