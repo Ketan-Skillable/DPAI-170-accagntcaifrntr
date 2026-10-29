@@ -331,7 +331,7 @@ JSON-based indexes to provide fast, relevant search results.
 
 14. Select **Deployments** from the left pane.
 
-    >[!Tip] The Foundry portal by default launches with the new UI. Use the toggle button next to **New Foundry** and turn it off to switch to the old Foundry UI.
+    >[!Tip] The Foundry portal by default launches with the new UI. Use the toggle button next to **New Foundry** and turn it off to switch to the old Foundry UI and select **Model + endpoints** from under the **My assets** section.
 
     ![A screenshot of a chat AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image44.png)
