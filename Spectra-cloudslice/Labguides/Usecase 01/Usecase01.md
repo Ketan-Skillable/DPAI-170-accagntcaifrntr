@@ -319,7 +319,7 @@ JSON-based indexes to provide fast, relevant search results.
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image43.png)
 
-    >[!Note]: If prompted to create a project resource, use the following information to create the project resource and select **Create**.
+    >[!Note] If prompted to create a project resource, use the following information to create the project resource and select **Create**.
 
     - Project name – +++project-@lab.LabInstance.Id+++
 
