@@ -321,9 +321,9 @@ JSON-based indexes to provide fast, relevant search results.
 
     >[!Note] If prompted to create a project resource, use the following information to create the project resource and select **Create**.
 
-    - Project name – +++project-@lab.LabInstance.Id+++
+    - Project name – +++project@lab.LabInstance.Id+++
 
-    - Foundry resource – +++project-@lab.LabInstance.Id-resource+++
+    - Foundry resource – +++project@lab.LabInstance.Idresource+++
 
     - Region – Central US
 
