@@ -323,7 +323,7 @@ JSON-based indexes to provide fast, relevant search results.
 
     - Project name – +++project-@lab.LabInstance.Id+++
 
-    - Foundry resource – +++project-@lab.LabInstance.Id-resource+++
+    - Foundry resource – The resource name should auto populate once the project name has been added.
 
     - Region – Central US
 
