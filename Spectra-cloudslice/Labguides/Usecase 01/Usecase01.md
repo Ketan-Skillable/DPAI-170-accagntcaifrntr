@@ -325,7 +325,7 @@ JSON-based indexes to provide fast, relevant search results.
 
     - Foundry resource – +++project-@lab.LabInstance.Id-resource+++
 
-    - Region – Central US
+    - Region – Select as per Resource Group region
 
     - Subscription - Select your subscription
    
@@ -402,7 +402,7 @@ JSON-based indexes to provide fast, relevant search results.
     pre-populated. Enter the below details and click **Next**.
 
     - Azure OpenAI Service –
-    Select **openaiservice@lab.LabInstance.Id**
+    Select **project-@lab.LabInstance.Id**
       
     - Model deployment – **text-embedding-3-large**
 
@@ -443,15 +443,14 @@ JSON-based indexes to provide fast, relevant search results.
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image59.png)
 
-3.  Select Agents from the left pane. Enter +++You are a Knowledge
-    assistant agent for HR who will answer questions related to leaves
-    and leave policies to the employees.+++ and select **Send**.
+3.  Select Agents from the left navigation pane and select **New agent**, enter below information and select **Save**.
+    Name: +++HR Knowledge Assistant+++
+    Instructions: +++You are a Knowledge assistant agent for HR who will answer questions related to leaves and leave policies to the employees+++
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image60.png)
 
-4.  Once the agent is created, in the Test pane, enter +++How many days
-    of Maternity leaves can I avail?+++ and click **Send.**
+4.  Select the Preview tab from the top navigation and ask +++How many days of Maternity leave can I avail?+++
 
     ![image](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image61.png)
 
@@ -461,7 +460,7 @@ JSON-based indexes to provide fast, relevant search results.
 
 ## Exercise 6: Add the Azure AI Search as a knowledge source
 
-1.  From the **Overview** page of the agent, select **Add knowledge**.
+1.  Return to the Build tab of the HR Knowledge Assistant agent and in the Knowledge section, select the + icon.
 
     ![A screenshot of a computer AI-generated content may be
     incorrect.](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/Usecase%2001/media/image63.png)
