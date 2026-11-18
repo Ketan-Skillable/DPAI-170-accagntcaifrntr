@@ -57,7 +57,7 @@ In this exercise, you create the Azure AI Search service, the storage account wi
 |----|----|
 | **Temporary Access Pass** | **+++@lab.CloudPortalCredential(User1).AccessToken+++** |
 
-![](./media/image1.png)
+![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/blob/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image1.png)
 
 ![](./media/image2.png)
 
