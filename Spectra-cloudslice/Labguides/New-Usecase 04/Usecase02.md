@@ -688,7 +688,7 @@ A **relationship type** connects an origin entity type to a target entity type. 
 
     ![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image133.png)
 
-    [!Note] The screenshot shows the target property **customer_id** from an earlier version of the data file. Select **CustomerID**.
+    >[!Note] The screenshot shows the target property **customer_id** from an earlier version of the data file. Select **CustomerID**.
 
 6.  When **Successfully updated the relationship type** appears, select **Cancel**.
 
