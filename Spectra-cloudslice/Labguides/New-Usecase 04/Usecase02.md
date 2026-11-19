@@ -893,15 +893,15 @@ In this exercise, you configure the **IQAgent** agent in Microsoft Foundry with 
 
 6.  In the **Choose a knowledge type** window, select the **storage@lab.LabInstance.Id** storage account and the **document** container you created earlier. Select **gpt-5** as the **Chat completions model**, and then click on **Create**.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image185.png)
-
     >[!Note] If the **gpt-5** model is not available in the **Chat completions model (5)** list, select **gpt-5.2** instead, and then click on **Create (6)**.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image185.png)
 
 7.  Make sure the knowledge source shows the **Active** status (wait about 5 minutes or refresh the page), and then select **Save knowledge base**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image186.png)
     
-    >[!Note] If the status is not displayed as **Active**, refresh the page once and check the status again.
+    >[!Alert] If the status is not displayed as **Active**, **do not refresh** the page. Wait for 2 minutes and select **Save knowledge base**. Refresh the page once the knowledge base is saved.
 
 8.  Select **Use in an agent**, and then choose the **IQAgent** agent to associate the knowledge base with it.
 
