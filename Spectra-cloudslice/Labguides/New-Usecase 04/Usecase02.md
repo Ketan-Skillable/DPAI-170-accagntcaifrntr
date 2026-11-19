@@ -432,7 +432,7 @@ In this task, you create seven entity types and bind each one to a lakehouse tab
 
     ![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image78.png)
 
->[!Note] The screenshot shows **customer_id** from an earlier version of the data file. Select **CustomerID**.
+    >[!Note] The screenshot shows **customer_id** from an earlier version of the data file. Select **CustomerID**.
 
 7.  Verify that the **Entity type key** shows the key, and then select **Home** to return to the configuration canvas.
 
