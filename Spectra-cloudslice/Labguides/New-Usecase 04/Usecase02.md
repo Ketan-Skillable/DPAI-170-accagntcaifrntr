@@ -230,7 +230,7 @@ In this task, you create the Foundry resource and project, and then create the *
 
     ![](https://raw.githubusercontent.com/technofocus-pte/accagntcaifrntr/refs/heads/main/Spectra-cloudslice/Labguides/New-Usecase%2004/media/image37.png)
     
-    >[!Note] If you get permission errors, assign yourself the **Foundry User** role:
+    >[!Alert] If you get permission errors, assign yourself the **Foundry User** role:
     
     - Navigate to the **AgenticAI** resource group.
     
